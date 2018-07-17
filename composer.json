@@ -26,12 +26,6 @@
     "yiisoft/yii2": "*",
     "aleksey203/phpthumb": "*"
   },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/yii-dream-team/PHPThumb"
-    }
-  ],
   "autoload": {
     "psr-4": {
       "yiidreamteam\\upload\\": "./src"
