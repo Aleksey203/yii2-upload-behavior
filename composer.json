@@ -24,7 +24,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "masterexploder/phpthumb": "*"
+    "aleksey203/phpthumb": "*"
   },
   "repositories": [
     {
