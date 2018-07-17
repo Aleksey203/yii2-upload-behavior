@@ -24,7 +24,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "aleksey203/phpthumb": "2.2.x@dev"
+    "aleksey203/phpthumb": "2.3.x@dev"
   },
   "autoload": {
     "psr-4": {
