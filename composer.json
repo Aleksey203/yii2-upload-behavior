@@ -23,7 +23,7 @@
   "minimum-stability": "dev",
   "require": {
     "yiisoft/yii2": "*",
-    "aleksey203/phpthumb": "2.3.1"
+    "aleksey203/phpthumb": "2.3.1.x@dev"
   },
   "autoload": {
     "psr-4": {
@@ -32,7 +32,7 @@
   },
   "extra": {
         "branch-alias": {
-            "master": "1.5.1"
+            "dev-master": "1.5.1-dev"
         }
     }
 }
