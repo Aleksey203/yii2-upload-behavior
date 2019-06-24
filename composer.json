@@ -22,7 +22,6 @@
   ],
   "minimum-stability": "dev",
   "require": {
-    "php": ">=5.4.0",
     "yiisoft/yii2": "*",
     "aleksey203/phpthumb": "2.3.x@dev"
   },
@@ -33,7 +32,7 @@
   },
   "extra": {
         "branch-alias": {
-            "master": "1.5.*"
+            "master-dev": "1.5.*-dev"
         }
     }
 }
